@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="select">Select Movie Genre</string>
+    <string name="superString">SUPERHERO</string>
+    <string name="actString">ACTION</string>
+    <string name="aniString">ANIMATION</string>
+    <string name="movie">MOVIE</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <string name="tickets"># OF TICKETS</string>
+    <string name="book">BOOK</string>
+    <string name="yBook">Your Booking</string>
+</resources>
